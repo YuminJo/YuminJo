@@ -5,6 +5,8 @@
   <a href="mailto:nationmilo@gmail.com" target="_blank"><img src="https://img.shields.io/badge/nationmilo@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
 </p>
 
+<br>
+
 <p>
   👋&nbsp; Hi there! I'm <b>backend & mobile game developer</b>
   I have experience 3 years of Unity Game development, Currently I'm learning the spring backend!<br/>
@@ -14,6 +16,7 @@
   As a developer, I hope to bring joy to people through the element of creation. <br/><br/>
 </p>
 
+<br>
 
 💪 Skills - Tech Stack:
 
@@ -26,5 +29,7 @@
 ![Azure Functions](https://img.shields.io/badge/azurefunctions-%230062AD.svg?style=for-the-badge&logo=azurefunctions&logoColor=white)
 
 ![GIT](https://img.shields.io/badge/Git-fc6d26?style=for-the-badge&logo=git&logoColor=white)
+
+<br><br>
 
 ![Yumin's GitHub stats](https://github-readme-stats.vercel.app/api?username=YuminJo&show_icons=true&theme=radical)
