@@ -34,6 +34,12 @@
       <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
 </p>
 
+< Project List >
+- TowerHero ( ~ 2020 ) : https://www.youtube.com/watch?v=usnrg3nFseM
+- Coma ( ~ 2022 ) : https://youtu.be/C1VLeAWR3-0?si=NKOfJUDhTC-kj28n
+- DownFallen ( ~ 2023 - https://1chicken.com/winners/jam2022/ ) : https://store.steampowered.com/app/2153920/DOWNFALLEN/?l=koreana
+- DeliveryToYou ( Current ) : https://www.notion.so/5c3286e16509464192afafe2fef650b6?pvs=4
+
 <br><br>
 
 ![Yumin's GitHub stats](https://github-readme-stats.vercel.app/api?username=YuminJo&show_icons=true&theme=radical)
