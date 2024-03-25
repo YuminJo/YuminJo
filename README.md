@@ -34,12 +34,15 @@
       <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
 </p>
 
-< Project List >
+< Game Project List >
 - TowerHero ( ~ 2020 - PlayStore ) : https://www.youtube.com/watch?v=usnrg3nFseM
 - Coma ( ~ 2022 - ToyProject ) : https://youtu.be/C1VLeAWR3-0?si=NKOfJUDhTC-kj28n
 - DownFallen ( ~ 2023 - Gameability Awards 1st - https://1chicken.com/winners/jam2022/ ) : <br>https://store.steampowered.com/app/2153920/DOWNFALLEN/?l=koreana
 - DeliveryToYou ( Current - PlayStore ) : https://www.notion.so/5c3286e16509464192afafe2fef650b6?pvs=4
 
+< BackEnd Project List >
+- Comma ( Svelte ) : https://github.com/Techit-BitHarmony
+- Comma ( React ) : https://github.com/Techit-Comma
 <br><br>
 
 ![Yumin's GitHub stats](https://github-readme-stats.vercel.app/api?username=YuminJo&show_icons=true&theme=radical)
