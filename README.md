@@ -35,14 +35,17 @@
 </p>
 
 < Game Project List >
-- TowerHero ( ~ 2020 - PlayStore ) : https://www.youtube.com/watch?v=usnrg3nFseM
-- Coma ( ~ 2022 - ToyProject ) : https://youtu.be/C1VLeAWR3-0?si=NKOfJUDhTC-kj28n
-- DownFallen ( ~ 2023 - Gameability Awards 1st - https://1chicken.com/winners/jam2022/ ) : <br>https://store.steampowered.com/app/2153920/DOWNFALLEN/?l=koreana
-- DeliveryToYou ( Current Developing - PlayStore ) : https://www.notion.so/5c3286e16509464192afafe2fef650b6?pvs=4
+- SquarePVP ( ~ 2016 ~ PC / Visual Artist ) https://www.youtube.com/watch?v=WLICMv0TDDs
+- Calypso ( ~ 2020 - PC VR / PM Programmer ) https://x.com/i/status/1339855931178274816
+- TowerHero ( ~ 2020 - MOBILE / PL ) : https://www.youtube.com/watch?v=usnrg3nFseM
+- Coma ( ~ 2022 - PC / PM Programmer ) : https://youtu.be/C1VLeAWR3-0?si=NKOfJUDhTC-kj28n
+- Treepury ( ~ 2023 - PC / Visual Artist sub ) : https://store.steampowered.com/app/3001310/TREEPURY/
+- DownFallen ( ~ 2023 - PC - Gameability Awards 1st / Visual Artist ) : <br>https://store.steampowered.com/app/2153920/DOWNFALLEN/?l=koreana
+- DeliveryToYou ( Current Developing - MOBILE / PM Programmer ) : https://www.notion.so/5c3286e16509464192afafe2fef650b6?pvs=4
 
 < BackEnd Project List >
-- Comma ( Svelte - Spring ) : https://github.com/Techit-BitHarmony
-- Comma ( React - Spring ) : https://github.com/Techit-Comma
+- Comma ( Svelte - Spring / Leader ) : https://github.com/Techit-BitHarmony
+- Comma ( React - Spring / Leader ) : https://github.com/Techit-Comma
 - RestApi Board ( Svelte - Spring ) : https://github.com/YuminJo/rest-sveltekit-24-08-30
 - VMate ( Current Developing / Svelte - Spring ) : https://github.com/FindMyVirtualMate
 <br><br>
