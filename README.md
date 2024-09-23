@@ -34,20 +34,41 @@
       <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
 </p>
 
-< Game Project List >
-- SquarePVP ( ~ 2016 ~ PC / Visual Artist ) https://www.youtube.com/watch?v=WLICMv0TDDs
-- Calypso ( ~ 2020 - PC VR / PM Programmer ) https://x.com/i/status/1339855931178274816
-- TowerHero ( ~ 2020 - MOBILE / PL ) : https://www.youtube.com/watch?v=usnrg3nFseM
-- Coma ( ~ 2022 - PC / PM Programmer ) : https://youtu.be/C1VLeAWR3-0?si=NKOfJUDhTC-kj28n
-- Treepury ( ~ 2023 - PC / Visual Artist sub ) : https://store.steampowered.com/app/3001310/TREEPURY/
-- DownFallen ( ~ 2023 - PC - Gameability Awards 1st / Visual Artist ) : <br>https://store.steampowered.com/app/2153920/DOWNFALLEN/?l=koreana
-- DeliveryToYou ( Current Developing - MOBILE / PM Programmer ) : https://www.notion.so/5c3286e16509464192afafe2fef650b6?pvs=4
+<details>
+  <summary>< BackEnd Project List ></summary>
+  <ul>
+<li>Comma ( Svelte - Spring / Leader ) : https://github.com/Techit-BitHarmony</li>
+<li>Comma ( React - Spring / Leader ) : https://github.com/Techit-Comma</li>
+<li>RestApi Board ( Svelte - Spring ) : https://github.com/YuminJo/rest-sveltekit-24-08-30</li>
+<li>VMate ( Current Developing / Svelte - Spring ) : https://github.com/FindMyVirtualMate</li>
+</ul>
+</details>
 
-< BackEnd Project List >
-- Comma ( Svelte - Spring / Leader ) : https://github.com/Techit-BitHarmony
-- Comma ( React - Spring / Leader ) : https://github.com/Techit-Comma
-- RestApi Board ( Svelte - Spring ) : https://github.com/YuminJo/rest-sveltekit-24-08-30
-- VMate ( Current Developing / Svelte - Spring ) : https://github.com/FindMyVirtualMate
-<br><br>
+<details>
+  <summary>< Game Project List ></summary>
+  <ul>
+<li>SquarePVP ( ~ 2016 ~ PC High School Project / Visual Artist ) https://www.youtube.com/watch?v=WLICMv0TDDs</li>
+<li>Bash & Rush ( ~ 2020 - PC Toy Project / PM Programmer ) https://x.com/myaro_dev/status/1283429952193310723 / https://x.com/myaro_dev/status/1301120194027253762</li>
+<li>Calypso ( ~ 2020 - PC VR / PM Programmer ) https://x.com/i/status/1339855931178274816</li>
+<li>TowerHero ( ~ 2020 - MOBILE / PL ) : https://www.youtube.com/watch?v=usnrg3nFseM</li>
+<li>Coma ( ~ 2022 - PC / PM Programmer ) : https://youtu.be/C1VLeAWR3-0?si=NKOfJUDhTC-kj28n</li>
+<li>Treepury ( ~ 2023 - PC / Visual Artist sub ) : https://store.steampowered.com/app/3001310/TREEPURY/</li>
+<li>DownFallen ( ~ 2023 - PC - Gameability Awards 1st / Visual Artist ) : <br>https://store.steampowered.com/app/2153920/DOWNFALLEN/?l=koreana</li>
+<li>DeliveryToYou ( Current Developing - MOBILE / PM Programmer ) : https://www.notion.so/5c3286e16509464192afafe2fef650b6?pvs=4</li>
+  </ul>
+</details>
 
+<details>
+  <summary>< Art List ></summary>
+  <ul>
+    <li>Bash & Rush Character Concept https://x.com/myaro_dev/status/1268113694015143937</li>
+    <li>WhiteSpirit 3D Poi's House https://x.com/myaro_dev/status/1288116932953030656</li>
+    <li>3D Magic https://x.com/myaro_dev/status/1290203215741427712</li>
+    <li>Room https://x.com/myaro_dev/status/1298610093936672768</li>
+    <li>Unity Hdrp Arts https://x.com/myaro_dev/status/1302624315498586112</li>
+    <li>Ue4 LandScape https://x.com/myaro_dev/status/1412797766741282823</li>
+  </ul>
+</details>
+
+< Arts List >
 ![Yumin's GitHub stats](https://github-readme-stats.vercel.app/api?username=YuminJo&show_icons=true&theme=radical)
