@@ -35,6 +35,10 @@
       <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
 </p>
 
+<img src="https://github.com/user-attachments/assets/e62dabed-8928-46d7-af80-5afc9c3a0ad5" width="100" height="100">
+
+https://www.credly.com/badges/a80295db-923a-462d-8743-39da3f4bf6b9/public_url
+
 <br>
 🌟 <b> Project Lists </b>
 
