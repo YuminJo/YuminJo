@@ -58,12 +58,12 @@ https://www.credly.com/badges/a80295db-923a-462d-8743-39da3f4bf6b9/public_url
 <li>SquarePVP ( ~ 2016 ~ PC High School Project / Visual Artist ) https://www.youtube.com/watch?v=WLICMv0TDDs</li>
 <li>Bash & Rush ( ~ 2020 - PC Toy Project / PM Programmer ) https://x.com/myaro_dev/status/1283429952193310723 / https://x.com/myaro_dev/status/1301120194027253762</li>
 <li>Calypso ( ~ 2020 - PC VR / PM Programmer ) https://x.com/i/status/1339855931178274816</li>
-<li>TowerHero ( ~ 2020 - MOBILE / PL ) : https://www.youtube.com/watch?v=usnrg3nFseM</li>
+<li>TowerHero ( ~ 2020 - MOBILE ) : https://www.youtube.com/watch?v=usnrg3nFseM</li>
 <li>Coma ( ~ 2022 - PC / PM Programmer ) : https://youtu.be/C1VLeAWR3-0?si=NKOfJUDhTC-kj28n</li>
 <li>Treepury ( ~ 2023 - PC / Visual Artist sub ) : https://store.steampowered.com/app/3001310/TREEPURY/</li>
 <li>DownFallen ( ~ 2023 - PC - Gameability Awards 1st / Visual Artist ) : <br>https://store.steampowered.com/app/2153920/DOWNFALLEN/?l=koreana</li>
+<li>RainDrop ( Current Developing - PC / PM Programmer ) : https://www.youtube.com/watch?v=DR1uNqVhU9U </li> https://drive.google.com/file/d/1_IltVn-Omw50XcGmAuAXppJEoBmJNa1R/view?usp=sharing
 <li>DeliveryToYou ( Current Developing - MOBILE / PM Programmer ) : https://www.notion.so/5c3286e16509464192afafe2fef650b6?pvs=4</li>
-<li>RainDrop ( Current Developing - PC / PM Programmer ) : https://www.youtube.com/watch?v=DR1uNqVhU9U </li>
   </ul>
 </details>
 
