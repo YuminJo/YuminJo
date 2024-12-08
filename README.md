@@ -14,7 +14,7 @@
   Currently I'm learning the spring backend!<br/>
   At present, I'm really interested in real-time server communication and security.<br/>
   I'm also really interested in 3D and other creative elements, not just game making!<br/><br/>
-  I enjoy riding my bike and playing the drums.✨ <br/>
+  I enjoy riding my bike and playing the rhythm games.✨ <br/>
   As a developer, I hope to bring joy to people through the element of creation. <br/><br/>
 </p>
 
