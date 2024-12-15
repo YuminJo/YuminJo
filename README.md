@@ -1,7 +1,7 @@
 ### 🤞 Good to see u!
 <p>
-  <a href="https://velog.io/@doyaguri/posts" target="_blank"><img src="https://img.shields.io/badge/Tech_Blog_1-DD0B78?style=flat-square&logo=GitHub%20Sponsors&logoColor=white"/></a>
-  <a href="https://creativedeveloper.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Tech_Blog_2-DD0B78?style=flat-square&logo=GitHub%20Sponsors&logoColor=white"/></a>
+  <a href="https://velog.io/@doyaguri/posts" target="_blank"><img src="https://img.shields.io/badge/Tech_Blog_Current-DD0B78?style=flat-square&logo=GitHub%20Sponsors&logoColor=white"/></a>
+  <a href="https://creativedeveloper.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Tech_Blog_Old-DD0B78?style=flat-square&logo=GitHub%20Sponsors&logoColor=white"/></a>
   <a href="https://www.instagram.com/brunch.dev_kr/" target="_blank"><img src="https://img.shields.io/badge/Insta-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
   <a href="mailto:nationmilo@gmail.com" target="_blank"><img src="https://img.shields.io/badge/nationmilo@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
 </p>
