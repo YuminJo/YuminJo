@@ -64,8 +64,8 @@ https://www.credly.com/badges/a80295db-923a-462d-8743-39da3f4bf6b9/public_url
 <li>Treepury ( ~ 2023 - PC / Visual Artist sub ) : https://store.steampowered.com/app/3001310/TREEPURY/</li>
 <li>DownFallen ( ~ 2022.07.11 ~ 2022.09.18  - PC - Gameability Awards 1st / Visual Artist ) : <br>https://store.steampowered.com/app/2153920/DOWNFALLEN/?l=koreana</li>
 <li>RainDrop ( ~ 2024.10.11 ~ 2024.11.28 - PC / PM Programmer ) : https://www.youtube.com/watch?v=DR1uNqVhU9U </li> https://drive.google.com/file/d/1pdqQwu-8NIRVPTT8CitwW5fji4TlKaoA/view?usp=sharing
-<li>The-Witch-and-the-Cosmic-Journey ( ~ 2024.01.23 ~ )
 <li>DeliveryToYou ( Current Developing - MOBILE / PM Programmer ) : https://www.notion.so/5c3286e16509464192afafe2fef650b6?pvs=4</li>
+<li>The-Witch-and-the-Cosmic-Journey ( Current Developing - PC / PM Programmer )
   </ul>
 </details>
 
