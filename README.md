@@ -27,7 +27,6 @@
 
 ![C#](https://img.shields.io/badge/csharp-%23512BD4.svg?style=for-the-badge&logo=csharp&logoColor=white)
 ![Unity](https://img.shields.io/badge/Unity-%23000000.svg?style=for-the-badge&logo=Unity&logoColor=white)
-![Azure Functions](https://img.shields.io/badge/azurefunctions-%230062AD.svg?style=for-the-badge&logo=azurefunctions&logoColor=white)
 
 <p>
       <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white">
