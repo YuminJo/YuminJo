@@ -1,4 +1,4 @@
-### 🤞 Good to see u!
+## 🤞 Good to see u!
 <p>
   <a href="https://velog.io/@doyaguri/posts" target="_blank"><img src="https://img.shields.io/badge/Tech_Blog_Current-DD0B78?style=flat-square&logo=GitHub%20Sponsors&logoColor=white"/></a>
   <a href="https://creativedeveloper.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Tech_Blog_Old-DD0B78?style=flat-square&logo=GitHub%20Sponsors&logoColor=white"/></a>
@@ -20,7 +20,7 @@
 
 <br>
 
-### 💪 Skills - Tech Stack
+## 💪 Skills - Tech Stack
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 <img src="https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=Gradle&logoColor=white">
@@ -39,7 +39,7 @@ https://www.credly.com/badges/a80295db-923a-462d-8743-39da3f4bf6b9/public_url
 
 <br>
 
-### 🌟 portfolio
+## 🌟 portfolio
 https://shared-mapusaurus-f40.notion.site/e92fd80f32bb49c08a782fa53f4cebce
 <br><br>
 
