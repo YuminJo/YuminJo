@@ -35,10 +35,6 @@
 <img src="https://github.com/user-attachments/assets/e62dabed-8928-46d7-af80-5afc9c3a0ad5" width="100" height="100">
 
 https://www.credly.com/badges/a80295db-923a-462d-8743-39da3f4bf6b9/public_url
-<br>
-
-## 🌟 Portfolio
-https://shared-mapusaurus-f40.notion.site/e92fd80f32bb49c08a782fa53f4cebce
 <br><br>
 
 ![Yumin's GitHub stats](https://github-readme-stats.vercel.app/api?username=YuminJo&show_icons=true&theme=radical)
