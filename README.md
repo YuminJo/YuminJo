@@ -15,6 +15,8 @@
   I'm also really interested in 3D and other creative elements, not just game making!<br/><br/>
   I enjoy riding my bike and playing the rhythm games.✨ <br/>
   As a developer, I hope to bring joy to people through the element of creation. <br/><br/>
+
+  Today, I'm working at a Japanese game company!
 </p>
 
 <br>
