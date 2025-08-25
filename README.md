@@ -9,7 +9,6 @@
 
 <p>
   👋&nbsp; Hi there! I'm <b>backend & mobile game developer</b>
-  I have experience 3 years of Unity Game development,</br>
   Currently I'm learning the backend!<br/>
   At present, I'm really interested in real-time server communication and security.<br/>
   I'm also really interested in 3D and other creative elements, not just game making!<br/><br/>
