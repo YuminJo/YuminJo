@@ -38,5 +38,4 @@
 https://www.credly.com/badges/a80295db-923a-462d-8743-39da3f4bf6b9/public_url
 <br><br>
 
-![Yumin's GitHub stats](https://github-readme-stats.vercel.app/api?username=YuminJo&show_icons=true&theme=radical)
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YuminJo&layout=compact&theme=dark"/>
