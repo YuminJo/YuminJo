@@ -8,14 +8,17 @@
 <br>
 
 <p>
-  👋&nbsp; Hi there! I'm <b>backend & mobile game developer</b>
-  Currently I'm learning the backend!<br/>
-  At present, I'm really interested in real-time server communication and security.<br/>
-  I'm also really interested in 3D and other creative elements, not just game making!<br/><br/>
-  I enjoy riding my bike and playing the rhythm games.✨ <br/>
-  As a developer, I hope to bring joy to people through the element of creation. <br/><br/>
+  👋&nbsp; Hi! I'm a Unity Game Developer who enjoys building interactive and immersive experiences.<br>
 
-  Today, I'm working at a Japanese game company!
+I mainly work with Unity and C#, focusing on gameplay systems, in-game logic, and performance-aware architecture.<br>
+I'm especially interested in real-time gameplay, client-server communication, and how game logic scales in live environments.<br>
+
+Beyond gameplay, I enjoy exploring 3D, visual effects, and creative mechanics that make games feel alive.<br>
+I believe games are not just software, but carefully crafted experiences.<br>
+
+Outside of development, I love riding my bike and playing rhythm games.<br>
+
+Currently, I’m working as a game developer at a Japanese game company.<br>
 </p>
 
 <br>
